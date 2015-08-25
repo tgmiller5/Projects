@@ -1,4 +1,4 @@
-Math, Science Courses and Enrollment 
+**Math, Science Courses and Enrollment** 
 Objective
 The purpose of the documentation is to provide analysis on math, science courses and its enrollment in the District of Columbia schools for the school year of 2011-2012. Within this document there will be a Science and Math section which will provide a subsection of each course. This document demonstrates tools that were used to derive at this data analysis which is listed in the technology resources section. 
 Technology Resources
