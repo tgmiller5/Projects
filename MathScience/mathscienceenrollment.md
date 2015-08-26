@@ -35,6 +35,12 @@ The overall total male enrollment for 33 schools were 1,097. There were a total 
 *	High Female Classes – 25(FRIENDSHIP PCS WOODSON COLLEGIATE CAMPUS)
 *	Average Female Classes – 5 
 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 Table 1.1 Total Number Male Physics Enrollments by Ethnicity 
 Male American	Male Asian	Male Hispanic	Male White	Male Black	Native Hawaiian Pacific Islander	Two or more races	Males with Disabilities	Overall enrollment  - 7 racial ethnic categories
 Highest	2	2	26	23	125	2	8	20	14
