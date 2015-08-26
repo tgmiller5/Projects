@@ -38,8 +38,9 @@ The overall total male enrollment for 33 schools were 1,097. There were a total 
 
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Highest| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | Content in the second column
+Average | Content in the second column
 
 Table 1.1 Total Number Male Physics Enrollments by Ethnicity 
 Male American	Male Asian	Male Hispanic	Male White	Male Black	Native Hawaiian Pacific Islander	Two or more races	Males with Disabilities	Overall enrollment  - 7 racial ethnic categories
