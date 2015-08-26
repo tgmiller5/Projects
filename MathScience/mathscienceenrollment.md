@@ -36,8 +36,8 @@ The overall total male enrollment for 33 schools were 1,097. There were a total 
 *	Average Female Classes – 5 
 
 
-First Header | Second Header
------------- | -------------
+Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
+------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
