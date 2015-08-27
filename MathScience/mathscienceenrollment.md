@@ -26,6 +26,7 @@ The overall total male enrollment for 33 schools were 1,097. There were a total 
 *	Highest class enrollment – 25 
 *	Lowest class enrollment – 1
 *	Average class enrollment - 5
+
 *	Total Female Enrollment - 1360
 *	Low Female Enrollment- 2 
 *	High Female Enrollment - 100
@@ -51,6 +52,7 @@ There were 37 schools for male chemistry with an overall total of 220 number of 
 *	Low Male Enrollment- 2 
 *	High Male Enrollment -150
 *	Average Male Enrollment-48.4
+
 *	Total Female Enrollment - 2109
 *	Low Female Enrollment- 2
 *	High Female Enrollment - 190
@@ -69,6 +71,13 @@ Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Co
 Female – Chemistry Enrollment
 The total number of schools were 37 with 220 numbers of female classes for geometry. The highest was 190 and the lowest was 2. The overall total was 2190
 
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+
 Biology – Male Enrollment
 Highest enrollment was from black male at Friendship PCS Woodson Collegiate Campus having 146 enrolled.  Total male enrollment excluding disabilities and overall 7 or more races are 2274 for the total, highest is 279. Total male enrollment classes are 309 which 43 schools participated. 
 **Biology** 
@@ -76,6 +85,7 @@ Highest enrollment was from black male at Friendship PCS Woodson Collegiate Camp
 *	Low Male Enrollment -2  
 *	High Male Enrollment -279
 *	Average Male Enrollment-55.4
+
 *	Total Female Enrollment- 2338
 *	Low Female Enrollment - 2
 *	High Female Enrollment - 244
@@ -92,6 +102,14 @@ Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Co
 
 Biology – Female Enrollment - Number of classes for female were 44. There were 311 biology classes with the highest being 25 and the lowest being 1. The average was 7 percentage. The highest enrollment was within biology was amongst the black female ethnicity at Ballou SHS having 137 as the highest. 
 
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+
+
 **Table 1.6 Total Female Biology Enrollments by Ethnicity**
 **Math** 
 **Algebra I**
@@ -101,6 +119,7 @@ Biology – Female Enrollment - Number of classes for female were 44. There were
 *	Low Male Enrollment - 2
 *	High Male Enrollment - 180 
 *	Average Male Enrollment – 47.04
+
 *	Total Female Enrollment-2116
 *Low Female Enrollment - 2
 *	High Female Enrollment - 150
@@ -111,6 +130,7 @@ Biology – Female Enrollment - Number of classes for female were 44. There were
 *	Low Male Enrollment - 2
 *	High Male Enrollment - 205
 *	Average Male Enrollment – 46.87
+
 *	Total Female Enrollment - 2117
 *	Low Female Enrollment- 10
 *	High Female Enrollment -220
@@ -140,6 +160,13 @@ Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Co
 Female Algebra I Enrollment 
 There were a total of 449 total classes 
 
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+
 **Algebra 2– Male Enrollment**
 Total male class enrollment is 253 classes
 
@@ -153,6 +180,13 @@ Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Co
 Female Algebra II Enrollment 
 There were a total of 253 total classes for female algebra 2
 
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+
 
 **Calculus Male Enrollment – 16 classes for male enrollment**
 The total number of classes for male calculus is 26 which 16 schools offered. The total enrollment was 127 with the highest being 34 and lowest 2. Overall average 7.9 which Woodrow Wilson leads
@@ -163,8 +197,18 @@ Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Co
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+
 Calculus Female Enrollment – 
 Total numbers of classes were 26 numbers of classes with 16 schools participating. The highest is Friendship PCS Woodson Collegiate Campus having 23 as the highest enrollment. 
+
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+
+
 **Math**
 *Total Male Enrollment - 1168
 *	Low Male Enrollment - 2 
@@ -191,9 +235,12 @@ Total numbers of classes were 26 numbers of classes with 16 schools participatin
 Geometry Female 
 Total number of female geometry classes totaled 328 which 48 schools participated. The highest number of classes was 25 which lead Woodrow Wilson School.
 
-
-
-
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 
 
 Geometry- Male Enrollment
@@ -208,6 +255,13 @@ Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Co
 
 Math Female
 Total math classes enrolled are 181 classes with 23 being the highest enrolled for female .
+
+Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
+Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 
 
 Math Male – Total classes for male enrollment are 181 having the highest being 23  
