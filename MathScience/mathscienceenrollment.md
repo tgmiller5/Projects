@@ -194,7 +194,7 @@ Total number of female geometry classes totaled 328 which 48 schools participate
 
 Geometry- Male Enrollment
 Total number of male geometry classes totaled 314 which there was 41 schools. The highest numbers of classes taken in geometry for males were 25 with Woodrow Wilson in the lead. 
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------|-------------| -------------|-------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
@@ -205,7 +205,7 @@ Total math classes enrolled are 181 classes with 23 being the highest enrolled f
 
 
 Math Male – Total classes for male enrollment are 181 having the highest being 23  
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------|-------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
