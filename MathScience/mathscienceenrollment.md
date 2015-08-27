@@ -130,7 +130,8 @@ Biology – Female Enrollment - Number of classes for female were 44. There were
 
 **Algebra 1– Male Enrollment**
 Total male class enrollment is 449 classes
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
@@ -141,7 +142,8 @@ There were a total of 449 total classes
 
 **Algebra 2– Male Enrollment**
 Total male class enrollment is 253 classes
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
@@ -153,7 +155,8 @@ There were a total of 253 total classes for female algebra 2
 
 **Calculus Male Enrollment – 16 classes for male enrollment**
 The total number of classes for male calculus is 26 which 16 schools offered. The total enrollment was 127 with the highest being 34 and lowest 2. Overall average 7.9 which Woodrow Wilson leads
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
@@ -194,7 +197,8 @@ Total number of female geometry classes totaled 328 which 48 schools participate
 
 Geometry- Male Enrollment
 Total number of male geometry classes totaled 314 which there was 41 schools. The highest numbers of classes taken in geometry for males were 25 with Woodrow Wilson in the lead. 
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------|-------------| -------------|-------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------|-------------| -------------|-------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
@@ -205,7 +209,8 @@ Total math classes enrolled are 181 classes with 23 being the highest enrolled f
 
 
 Math Male – Total classes for male enrollment are 181 having the highest being 23  
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------|-------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
+------------ |------------ | -------------| -------------| -------------| -------------| -------------|-------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
