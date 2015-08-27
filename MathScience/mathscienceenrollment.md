@@ -37,8 +37,7 @@ The overall total male enrollment for 33 schools were 1,097. There were a total 
 
 **Table 1.1 Total Number Male Physics Enrollments by Ethnicity**
 
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
------------- |------------ | -------------| -------------| -------------| -------------| -------------| -------------
+Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Lowest | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
 Average | 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
