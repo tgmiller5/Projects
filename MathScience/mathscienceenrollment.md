@@ -150,6 +150,7 @@ Total | 2| 14| Content from cell 2| Content from cell 2| Content from cell 2| Co
 
 **Algebra 1– Male Enrollment**
 Total male class enrollment is 449 classes
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2| Content from cell 2
