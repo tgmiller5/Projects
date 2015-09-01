@@ -83,6 +83,8 @@ Total | 2| 28|195| 2| 1419| 2| 17
 **Female – Chemistry Enrollment**
 The total number of schools were 37 with 220 numbers of female classes for geometry. The highest was 190 and the lowest was 2.The overall total was 2190
 
+**Table 1.4 Total Number of Female Chemistry Enrollment by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 17| 71| 44| 176| 0| 8
