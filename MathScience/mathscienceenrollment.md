@@ -105,6 +105,7 @@ Highest enrollment was from black male at Friendship PCS Woodson Collegiate Camp
 *	Average Female Enrollment- 63.1
 
 **Table 1.5 Total Male Biology Enrollments by Ethnicity**
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 8| 44| 26| 98| 2| 5
