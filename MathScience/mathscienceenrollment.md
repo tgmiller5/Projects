@@ -106,15 +106,6 @@ Highest enrollment was from black male at Friendship PCS Woodson Collegiate Camp
 
 **Table 1.5 Total Male Biology Enrollments by Ethnicity**
 
-Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
------------- |------------ | -------------| -------------| -------------| -------------| -------------| -------------
-Highest| 2| 8| 44| 26| 98| 2| 5
-Lowest | 2| 2| 2 | 2| 2| 2| 2
-Average| 2| 4.5|8.8|9| 35.1875| 2| 2.48
-Total | 8| 17|132|54| 1126| 6| 17
-
-
-
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 6| 23| 71| 56| 416| 2| 11
 Lowest | 2| 2| 2 | 2| 2| 2| 2
@@ -125,6 +116,7 @@ Total | 6| 42|261| 106| 1834| 6| 19
 Number of classes for female were 44. There were 311 biology classes with the highest being 25 and the lowest being 1. The average was 7 percentage. The highest enrollment was within biology was amongst the black female ethnicity at Ballou SHS having 137 as the highest. 
 
 **Table 1.6 Total Female Biology Enrollments by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 29| 92| 56| 137| 2| 8
@@ -175,6 +167,7 @@ Total | 4| 45|231|119| 1910| 6| 23
 Total male class enrollment is 449 classes
 
 **Table 1.7 Total Male Algebra I Enrollments by Ethnicity**
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 0| 61| 8| 178| 0| 2
@@ -186,6 +179,7 @@ Female Algebra I Enrollment
 There were a total of 449 total classes 
 
 **Table 1.7 Total Female Algebra I Enrollments by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 8| 67| 5| 148| 2| 2
@@ -197,6 +191,7 @@ Total | 4| 18|188|22| 1862| 8| 14
 Total male class enrollment is 253 classes
 
 **Table 1.8 Total Male Algebra II Enrollments by Ethnicity**
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 17| 92| 41| 131| 2| 8
@@ -208,6 +203,7 @@ Total | 2| 32|237|102| 1716| 4| 23
 There were a total of 253 total classes for female algebra 2
 
 **Table 1.9 Total Female Algebra II Enrollments by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 17| 92| 44| 131| 2| 8
@@ -220,6 +216,7 @@ Total | 2| 31|237|102| 1716| 4| 23
 The total number of classes for male calculus is 26 which 16 schools offered. The total enrollment was 127 with the highest being 34 and lowest 2. Overall average 7.9 which Woodrow Wilson leads
 
 **Table 1.10 Total Male Calculus Enrollments by Ethnicity**
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 0| 2| 5| 23| 23| 2| 5
@@ -232,6 +229,7 @@ Total numbers of classes were 26 numbers of classes with 16 schools participatin
 
 
 **Table 1.11 Total Female Calculus Enrollments by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 0| 5| 11| 20| 23| 0| 2
@@ -267,6 +265,7 @@ Total | 0| 7|25|30| 95| 0| 2
 Total number of female geometry classes totaled 328 which 48 schools participated. The highest number of classes was 25 which lead Woodrow Wilson School.
 
 **Table 1.12 Total Female Geometry Enrollments by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 17| 98| 26| 203| 0| 5
@@ -279,6 +278,7 @@ Total | 4| 28|250|67| 1906| 0| 18
 Total number of male geometry classes totaled 314 which there was 41 schools. The highest numbers of classes taken in geometry for males were 25 with Woodrow Wilson in the lead. 
 
 **Table 1.13 Total Male Geometry Enrollments by Ethnicity**
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 17| 83| 35| 185| 2| 11
@@ -290,6 +290,7 @@ Total | 12| 34|259|61| 1724| 2| 23
 Total math classes enrolled are 181 classes with 23 being the highest enrolled for female .
 
 **Table 1.14 Total Female Math Enrollments by Ethnicity**
+
 Total |Female American | Female Asian | Female Hispanic | Female White | Female Black | Female Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 2| 20| 95| 44| 158| 0| 8
@@ -302,6 +303,7 @@ Total | 4| 35|171|90| 1278| 0| 24
 Total classes for male enrollment are 181 having the highest being 23  
 
 **Table 1.15 Total Male Math Enrollments by Ethnicity**
+
 Total |Male American | Male Asian | Male Hispanic | Male White | Male Black | Native Hawaiian Pacific Islander | Two or more races
 ------------ |------------ | -------------| -------------| -------------| -------------| -------------| -------------
 Highest| 0| 11| 86| 44| 116| 2| 5
