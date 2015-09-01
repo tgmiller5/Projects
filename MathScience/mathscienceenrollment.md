@@ -140,12 +140,12 @@ Total | 4| 45|231|119| 1910| 6| 23
 *	Average Male Enrollment – 47.04
 
 *	Total Female Enrollment-2116
-*Low Female Enrollment - 2
+*	Low Female Enrollment - 2
 *	High Female Enrollment - 150
 *	Average Female Enrollment – 50.38
 
 **Algebra II** 
-*Total Male Enrollment - 1830
+*	Total Male Enrollment - 1830
 *	Low Male Enrollment - 2
 *	High Male Enrollment - 205
 *	Average Male Enrollment – 46.87
@@ -156,9 +156,9 @@ Total | 4| 45|231|119| 1910| 6| 23
 *	Average Female Enrollment – 64.1
 
 **Calculus** 
-*Total Male Enrollment - 127
-*Low Male Enrollment - 2 
-*High Male Enrollment  - 34
+*	Total Male Enrollment - 127
+*	Low Male Enrollment - 2 
+*	High Male Enrollment  - 34
 *	Average Male Enrollment – 7.9
 
 
@@ -168,7 +168,7 @@ Total | 4| 45|231|119| 1910| 6| 23
 *	Average Female Enrollment – 9.9
 
 **Algebra 1– Male Enrollment**
-Total male class enrollment is 449 classes
+*	Total male class enrollment is 449 classes
 
 **Table 1.7 Total Male Algebra I Enrollments by Ethnicity**
 
@@ -243,7 +243,7 @@ Total | 0| 7|25|30| 95| 0| 2
 
 
 **Math**
-*Total Male Enrollment - 1168
+*	Total Male Enrollment - 1168
 *	Low Male Enrollment - 2 
 *	High Male Enrollment - 142
 *	Average Male Enrollment – 35. 3
@@ -255,12 +255,12 @@ Total | 0| 7|25|30| 95| 0| 2
 
 
 **Geometry**
-*Total Male Enrollment - 2115
+*	Total Male Enrollment - 2115
 *	Low Male Enrollment-2  
 *	High Male Enrollment -239 
 *	Average Male Enrollment – 51.5
 
-*Total Female Enrollment - 2273
+*	Total Female Enrollment - 2273
 *	Low Female Enrollment- 2
 *	High Female Enrollment - 211
 *	Average Female Enrollment-59.8
