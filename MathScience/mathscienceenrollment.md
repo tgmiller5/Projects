@@ -60,7 +60,7 @@ Total | 8| 17|132|54| 1126| 6| 17
  There were 37 schools for male chemistry with an overall total of 220 number of geometry classes taken. The highest being 15 Ballou SHS and Woodrow Wilson being in the lead. The total enrollment for males were 1744 with the highest being 150 which is Friendship PCS Woodson Collegiate Campus
 
 **Chemistry** 
-*Total Male Enrollment - 1744
+*	Total Male Enrollment - 1744
 *	Low Male Enrollment- 2 
 *	High Male Enrollment -150
 *	Average Male Enrollment-48.4
@@ -96,7 +96,7 @@ Total | 2| 26|209|96| 1747| 0| 29
 Highest enrollment was from black male at Friendship PCS Woodson Collegiate Campus having 146 enrolled. Total male enrollment excluding disabilities and overall 7 or more races are 2274 for the total, highest is 279. Total male enrollment classes are 309 which 43 schools participated. 
 
 **Biology** 
-*Total Male Enrollment - 2274
+*	Total Male Enrollment - 2274
 *	Low Male Enrollment -2  
 *	High Male Enrollment -279
 *	Average Male Enrollment-55.4
