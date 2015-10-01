@@ -1,0 +1,74 @@
+<html>
+<head>
+<p><b>A map has been created to demonstrate the average teacher salary by zip code in Washington, DC</b></p>
+<p><b>Click on one of the placemarkers to show the average salary of a teacher in Washington, DC</b></p>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load('visualization', '1.1', {packages: ['map']});
+    google.setOnLoadCallback(drawMap);
+
+    function drawMap () {
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Address');
+      data.addColumn('string', 'Location');
+
+      data.addRows([
+        ['Washington, DC 20001 United States',                  'Average Teacher Salary for zip code 20001 is $ $767,699 '],
+       ['Washington, DC 20002 United States',                  'Average Teacher Salary for zip code 20002 is $1,807,672 '],
+       ['Washington, DC 20003 United States',                  'Average Teacher Salary for zip code 20003 is  $858,264  '],
+      ['Washington, DC 20005 United States',                  'Average Teacher Salary for zip code 20005 is  $122,320 '],
+      ['Washington, DC 20007 United States',                  'Average Teacher Salary for zip code 20007 is  $323,596 '],
+      ['Washington, DC 20008 United States',                  'Average Teacher Salary for zip code 20008 is  $287,868 '],
+  ['Washington, DC 20009 United States',                  'Average Teacher Salary for zip code 20009 is   $693,157 '],
+  ['Washington, DC 20010 United States',                  'Average Teacher Salary for zip code 20010 is   $589,646 '],
+  ['Washington, DC 20011 United States',                  'Average Teacher Salary for zip code 20011 is   $1,702,434'],
+  ['Washington, DC 20012 United States',                  'Average Teacher Salary for zip code 20012 is   $159,162 '],
+  ['Washington, DC 20015 United States',                  'Average Teacher Salary for zip code 20015 is   $82,472'],
+  ['Washington, DC 20016 United States',                  'Average Teacher Salary for zip code 20016 is   $370,268 '],
+  ['Washington, DC 20017 United States',                  'Average Teacher Salary for zip code 20017 is    $570,801 '],
+  ['Washington, DC 20018 United States',                  'Average Teacher Salary for zip code 20018 is    $449,125 '],
+  ['Washington, DC 20019 United States',                  'Average Teacher Salary for zip code 20019 is    $1,979,103 '],
+  ['Washington, DC 20020 United States',                  'Average Teacher Salary for zip code 20020 is    $1,457,238'],
+  ['Washington, DC 20024 United States',                  'Average Teacher Salary for zip code 20024 is    $246,986 '],
+  ['Washington, DC 20032 United States',                  'Average Teacher Salary for zip code 20032 is    $1,409,500 '],
+  ['Washington, DC 20037 United States',                  'Average Teacher Salary for zip code 20037 is    $169,924'],
+  ['Washington, DC 20059 United States',                  'Average Teacher Salary for zip code 20059 is    $63,827 '],
+  ['Washington, DC 20724 United States',                  'Average Teacher Salary for zip code 20724 is    $48,061.00 '],
+ ]);
+
+      var options = {
+        mapType: 'styledMap',
+        zoomLevel: 12,
+        showTip: true,
+        useMapTypeControl: true,
+        maps: {
+          // Your custom mapTypeId holding custom map styles.
+          styledMap: {
+            name: 'Styled Map', // This name will be displayed in the map type control.
+            styles: [
+              {featureType: 'poi.attraction',
+               stylers: [{color: '#fce8b2'}]
+              },
+              {featureType: 'road.highway',
+               stylers: [{hue: '#0277bd'}, {saturation: -50}]
+              },
+              {featureType: 'road.highway',
+               elementType: 'labels.icon',
+               stylers: [{hue: '#000'}, {saturation: 100}, {lightness: 50}]
+              },
+              {featureType: 'landscape',
+               stylers: [{hue: '#259b24'}, {saturation: 10}, {lightness: -22}]
+              }
+        ]}}
+      };
+
+      var map = new google.visualization.Map(document.getElementById('map_div'));
+
+      map.draw(data, options);
+    }
+  </script>
+</head>
+<body>
+<div id="map_div" style="height: 500px; width: 900px"></div>
+</body>
+</html>
