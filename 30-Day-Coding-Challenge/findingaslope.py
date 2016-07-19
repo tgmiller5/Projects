@@ -1,4 +1,5 @@
 #This is a program on finding the slope:
+#Day 2 Python Coding Challenge
 
 print("This is a program to find the slope of a line that passes through points")
 print("Enter points for x1,x2, y1, and y2 to find the slope")
